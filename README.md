@@ -10,4 +10,6 @@ pip3 install hachoir
 python3 timemachine.py
 ```
 
-The command line will tell you the rest.
+The CLI will tell you the rest.
+
+The asterisk as expected; no guarantees, do backups, be brave...
