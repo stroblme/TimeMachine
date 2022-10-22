@@ -1,0 +1,6 @@
+*.MOV
+test
+build
+dist
+venv
+.vscode
